@@ -1,0 +1,4 @@
+*.so
+Manifest.toml
+pandoc-compose.yaml
+out.html
