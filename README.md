@@ -20,6 +20,8 @@ of other players.
 A thorough discussion of planning under equilibrium uncertainty alone can be found in [[1]](#[1]).
 Both sources of uncertainty are discussed in [[2]](#[2]).
 
+![](https://raw.githubusercontent.com/lassepe/GameInference.jl-results/master/uncertain-equilibria/gifs/5-player-closed-loop/5-player-planning-3.gif?token=ACM4E5RUHLCHQNXJ6SFJNJS7VVK4Y)
+
 ## Usage
 
 ### Installation
