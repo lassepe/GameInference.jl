@@ -40,7 +40,7 @@ In a Julia REPL from the project root type:
 using Pkg
 pkg"activate ."
 # adding iLQGames.jl manually, since it is currently not registered.
-pkg"add https://github.com/lassepe/iLQGames.jl
+pkg"add https://github.com/lassepe/iLQGames.jl"
 pkg"instantiate"
 ```
 
