@@ -1,6 +1,6 @@
 # GameInference.jl
 
-> :warning This repository was last tested with Julia 1.4.2.
+> :warning: This repository was last tested with Julia 1.4.2.
 
 This repository contains the implementation of a particle filtering technique for online inference of other
 player's intentions in general-sum differential games.
